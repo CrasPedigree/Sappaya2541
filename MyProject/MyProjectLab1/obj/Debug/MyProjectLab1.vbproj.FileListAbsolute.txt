@@ -1,0 +1,12 @@
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\bin\Debug\MyProjectLab1.exe.config
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\bin\Debug\MyProjectLab1.exe
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\bin\Debug\MyProjectLab1.pdb
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\bin\Debug\MyProjectLab1.xml
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\obj\Debug\MyProjectLab1.vbprojResolveAssemblyReference.cache
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\obj\Debug\MyProjectLab1.FrmLab1.resources
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\obj\Debug\MyProjectLab1.Resources.resources
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\obj\Debug\MyProjectLab1.vbproj.GenerateResource.Cache
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\obj\Debug\MyProjectLab1.exe
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\obj\Debug\MyProjectLab1.xml
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\obj\Debug\MyProjectLab1.pdb
+c:\users\nt028\documents\visual studio 2017\Projects\MyProjectLab1\MyProjectLab1\obj\Debug\MyProjectLab1.FrmLab2.resources
